@@ -1,0 +1,40 @@
+
+.heading
+{
+font-size: 30px;
+width: 100%;
+margin: 0px;
+background-color: rgb(255, 255, 255);
+font-weight: 900;
+border: 2px black dashed;
+text-shadow: 2px 2px 20px rgb(110, 57, 0);
+}
+
+#status
+{
+font-size: 18px;
+}
+body{
+    background-size: cover;
+    background-position: center;
+}
+canvas{
+    border: 5px black solid;
+}
+h6{
+    position: fixed;
+    bottom: -9;
+    text-align: center;
+    width: 100%;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    border: 1px white solid;
+}
+#heading2{
+    width: 100%;
+    background-color: lightblue;
+    position: fixed;
+    top: 0;
+    margin: 0;
+    font-weight: 900;
+}
